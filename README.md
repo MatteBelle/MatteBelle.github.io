@@ -40,15 +40,6 @@ Open `styles.css` and edit the CSS variables at the top:
 --color-surface: #1a1a2e;  /* Card backgrounds */
 ```
 
-## Deployment (GitHub Pages)
-
-1. Push to `main` branch
-2. Go to **Settings → Pages**
-3. Source: **Deploy from a branch** → `main` / `/ (root)`
-4. Site will be live at `https://mattebelle.github.io/Personal_Portfolio/`
-
-To use a root domain (`mattebelle.github.io`), rename this repository to `MatteBelle.github.io`.
-
 ## Tech Stack
 
 - HTML5, CSS3 (custom properties, Grid, Flexbox)
